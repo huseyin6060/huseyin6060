@@ -3,8 +3,11 @@
 Başlık: Merhaba, Ben [Adın Soyadın] 👋
 
 Hakkımda:
-Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. Gömülü sistemlerden oyun modlamaya, veritabanı yönetiminden web geliştirmeye kadar geniş bir yelpazede kendimi geliştiriyorum. Donanım ve yazılımın kesiştiği noktalarla ilgilenmeyi seviyorum.
-
+Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. Gömülü sistemlerden oyun modlamaya, veritabanı yönetiminden web geliştirmeye kadar geniş bir alanda kullanabileceğim herşeyi geliştimeye çalışıyorum. Donanım ve yazılımın kesiştiği noktalarla ilgilenmeyi seviyorum.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+About Me:
+I am a Computer Programming student at Tokat Gaziosmanpaşa University. I try to develop everything I can use in a wide range of fields, from embedded systems to game modding, from database management to web development. I enjoy dealing with the intersection of hardware and software.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Yetenek Setim:
 
 💻 Programlama Dilleri: C#, SQL, HTML, CSS
