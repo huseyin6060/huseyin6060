@@ -9,6 +9,18 @@ Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
 
 ---
 
+### 🛡️ Lisanslı Projelerimiz (Team Projects)
+* **C# & Web Tabanlı Otomasyon Sistemi:** Ekibimizle birlikte geliştirdiğimiz, lisanslı ve tam kapsamlı yönetim yazılımı.
+    * **Teknolojiler:** C#, ASP.NET, MSSQL.
+    * **Durum:** GitHub'da Yayında!
+<p align="left">
+  <a href="BURAYA_PROJENIN_GITHUB_LINKINI_YAPIŞTIR">
+    <img src="https://img.shields.io/badge/Projeyi_İncele-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
 ### 🚜 FS25 Mod Çalışmalarım (Galeri)
 <p align="center">
   <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/BA%C5%9EAK_120_REPOWER.png" width="45%" alt="Başak 120" />
