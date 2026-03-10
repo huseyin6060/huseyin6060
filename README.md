@@ -28,7 +28,7 @@ Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
  <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/ardiuno.png" width="475"  alt="Arduino Projem" />
   
   <br/>
-  <b>Arduino Gömülü Sistemler ve Blender 3D Modelleme Çalışmalarım</b>
+  <b>Arduino & Elektirik ve Elektironik  ve Blender 3D Modelleme Çalışmalarım</b>
   <br/>
   <i>Bilgisayarım bozulunca maalesef projelerim gittiği için, buraya online siteden oluşturduğum projelerimi ekledim.</i>
 </p>
@@ -61,7 +61,7 @@ Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
 ### 🛠 Teknik Yetenek Envanteri
 
 #### 🏆 Üst Düzey & Uzmanlık (Expert)
-* **Arduino & Gömülü Sistemler:** İleri düzey devre tasarımı ve donanım programlama.
+* **Arduino & Elektirik ve Elektironik:** İleri düzey devre tasarımı ve donanım programlama.
 * **Giants Editor:** FS25 için profesyonel convert, i3D düzenleme ve teknik modlama.
 
 #### 🥇 İleri Seviye (Advanced)
