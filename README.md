@@ -9,10 +9,6 @@ Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
 
 ---
 
-
-
----
-
 ### 🛡️ Lisanslı Projelerimiz (Team Projects)
 * **C# & Web Tabanlı Otomasyon Sistemi:** Ekibimizle birlikte geliştirdiğimiz, lisanslı ve tam kapsamlı yönetim yazılımı.
     * **Teknolojiler:** C#, ASP.NET, MSSQL.
@@ -22,16 +18,29 @@ Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
     <img src="https://img.shields.io/badge/Projeyi_İncele-GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
+
+---
+
 ### ⚙️ Teknik Proje Görselleri
 <p align="center">
- <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/3D_model.png" width="380" alt="3D Model Çalışmam" />
- <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/ardiuno.png" width="475"  alt="Arduino Projem" />
-  
+  <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/3D_model.png" width="380" height="235" alt="3D Model Çalışmam" />
+  <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/ardiuno.png" width="475" height="235" alt="Arduino Projem" />
   <br/>
-  <b>Arduino & Elektirik ve Elektironik  ve Blender 3D Modelleme Çalışmalarım</b>
+  <b>Ardiuno & Elektirik ve Elektironik ve Blender 3D Modelleme Çalışmalarım</b>
   <br/>
   <i>Bilgisayarım bozulunca maalesef projelerim gittiği için, buraya online siteden oluşturduğum projelerimi ekledim.</i>
 </p>
+
+---
+
+### 🖋️ Aspire (CNC) Proje Görselleri
+<p align="center">
+  <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/kendim.jpg" width="420" height="235" alt="kendim" />
+  <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/köpeğim.jpg" width="420" height="235" alt="köpeğim" />
+  <br/>
+  <b>Aspire (CNC) Çalışmalarım</b>
+</p>
+
 ---
 
 ### 🚜 FS25 Mod Çalışmalarım (Galeri)
@@ -43,6 +52,8 @@ Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
   <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/NEWHOLLAND_NOSTALGE.png" width="44.8%" alt="New Holland Nostalge" />
   <br/>
   <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/%C4%B0NEKIRKLARI_BUFALOLEB%C4%B0RL%C4%B0KTE_ENTEKRE.png" width="90%" alt="İnekırkları Bufalo Birlikte" />
+  <br/>
+  <b>FS22 convert ve var olan bir modda hayvanlar kısmında mandalar satın alınmıyordu ekledim</b>
 </p>
 
 ---
@@ -61,7 +72,7 @@ Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
 ### 🛠 Teknik Yetenek Envanteri
 
 #### 🏆 Üst Düzey & Uzmanlık (Expert)
-* **Arduino & Elektirik ve Elektironik:** İleri düzey devre tasarımı ve donanım programlama.
+* **Ardiuno & Elektirik ve Elektironik:** İleri düzey devre tasarımı ve devre kodlama.
 * **Giants Editor:** FS25 için profesyonel convert, i3D düzenleme ve teknik modlama.
 
 #### 🥇 İleri Seviye (Advanced)
@@ -71,6 +82,7 @@ Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
 #### 🥈 Orta Seviye (Intermediate)
 * **Web Tasarım:** Modern HTML5 ve CSS3 arayüz geliştirme.
 * **3D Modelleme:** Blender ile oyun içi obje üretimi.
+* **Aspire (CNC):** Kullanımı, devre çizimi ve ahşap oyma uzmanlığı.
 * **IDE:** Visual Studio Code üzerinde profesyonel çalışma.
 
 #### 🥉 Giriş Seviyesi (Beginner)
@@ -87,6 +99,7 @@ Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
   <img src="https://img.shields.io/badge/FS25_Modding-FFD700?style=for-the-badge&logo=farming-simulator&logoColor=black" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <br>
+  <img src="https://img.shields.io/badge/Aspire_CNC-00519E?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
