@@ -14,7 +14,7 @@ Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
     * **Teknolojiler:** C#, ASP.NET, MSSQL.
     * **Durum:** GitHub'da Yayında!
 <p align="left">
-  <a href="[BURAYA_PROJENIN_GITHUB_LINKINI_YAPIŞTIR](https://github.com/VabisBey52/GamaOto)">
+  <a href="https://github.com/VabisBey52/GamaOto">
     <img src="https://img.shields.io/badge/Projeyi_İncele-GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
