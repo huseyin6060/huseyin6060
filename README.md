@@ -9,10 +9,9 @@ Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Özetim
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=huseyin6060&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyin6060&layout=compact&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=huseyin6060&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
