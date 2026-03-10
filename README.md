@@ -9,6 +9,10 @@ Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
 
 ---
 
+
+
+---
+
 ### 🛡️ Lisanslı Projelerimiz (Team Projects)
 * **C# & Web Tabanlı Otomasyon Sistemi:** Ekibimizle birlikte geliştirdiğimiz, lisanslı ve tam kapsamlı yönetim yazılımı.
     * **Teknolojiler:** C#, ASP.NET, MSSQL.
@@ -18,7 +22,16 @@ Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
     <img src="https://img.shields.io/badge/Projeyi_İncele-GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
-
+### ⚙️ Teknik Proje Görselleri
+<p align="center">
+ <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/3D_model.png" width="380" alt="3D Model Çalışmam" />
+ <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/ardiuno.png" width="475"  alt="Arduino Projem" />
+  
+  <br/>
+  <b>Arduino Gömülü Sistemler ve Blender 3D Modelleme Çalışmalarım</b>
+  <br/>
+  <i>Bilgisayarım bozulunca maalesef projelerim gittiği için, buraya online siteden oluşturduğum projelerimi ekledim.</i>
+</p>
 ---
 
 ### 🚜 FS25 Mod Çalışmalarım (Galeri)
@@ -27,9 +40,9 @@ Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
   <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/BA%C5%9EAK_2075_BK.png" width="45%" alt="Başak 2075" />
   <br/>
   <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/ERKUNT_BAH%C3%87E.png" width="45%" alt="Erkunt Bahçe" />
-  <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/NEWHOLLAND_NOSTALGE.png" width="45%" alt="New Holland Nostalge" />
+  <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/NEWHOLLAND_NOSTALGE.png" width="44.8%" alt="New Holland Nostalge" />
   <br/>
-  <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/%C4%B0NEKIRKLARI_BUFALOLEB%C4%B0RL%C4%B0KTE_ENTEKRE.png" width="91%" alt="İnekırkları Bufalo Birlikte" />
+  <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/%C4%B0NEKIRKLARI_BUFALOLEB%C4%B0RL%C4%B0KTE_ENTEKRE.png" width="90%" alt="İnekırkları Bufalo Birlikte" />
 </p>
 
 ---
