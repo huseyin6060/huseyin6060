@@ -50,6 +50,7 @@ Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. 
   <br/>
   <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/ERKUNT_BAH%C3%87E.png" width="45%" alt="Erkunt Bahçe" />
   <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/NEWHOLLAND_NOSTALGE.png" width="44.8%" alt="New Holland Nostalge" />
+  <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/FS25_araç multimedyası _tuşlu.png" width="44.8%" alt="New Holland Nostalge" />
   <br/>
   <img src="https://raw.githubusercontent.com/huseyin6060/resimler/main/%C4%B0NEKIRKLARI_BUFALOLEB%C4%B0RL%C4%B0KTE_ENTEKRE.png" width="90%" alt="İnekırkları Bufalo Birlikte" />
   <br/>
