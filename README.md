@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 Hakkımda
-Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. Teknik becerilerimi **donanım, yazılım ve sistem optimizasyonu** olmak üzere üç ana kolda geliştiriyorum. Karmaşık sistemleri en verimli haline getirmek ve oyun dünyası için teknik modlar üretmek temel odak noktamdır.
+Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı öğrencisiyim. Teknik becerilerimi **donanım, yazılım ve sistem optimizasyon** olmak üzere üç ana kolda geliştiriyorum. Karmaşık sistemleri en verimli haline getirmek ve oyun dünyası için teknik modlar üretmek temel odak noktamdır.
 
 ---
 
